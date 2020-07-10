@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/宝箱.png</file>
+        <file>img/角色踢腿-向右.png</file>
+        <file>img/角色踢腿-向左.png</file>
+        <file>img/角色-向右.png</file>
+        <file>img/角色-向左.png</file>
+        <file>img/墙.png</file>
+        <file>img/箱子.png</file>
+        <file>img/钥匙.png</file>
+        <file>img/游戏背景.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/background.png</file>
+        <file>img/box.png</file>
+        <file>img/key.png</file>
+        <file>img/kick-left.png</file>
+        <file>img/kick-right.png</file>
+        <file>img/man-left.png</file>
+        <file>img/man-right.png</file>
+        <file>img/treasure.png</file>
+        <file>img/wall.png</file>
+    </qresource>
+</RCC>
